@@ -1,0 +1,31 @@
+ticker,company_name,sector,industry,market_cap
+AAPL,Apple Inc.,Information Technology,Consumer Electronics,2850000000000
+MSFT,Microsoft Corporation,Information Technology,Software—Infrastructure,2750000000000
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,1850000000000
+AMZN,Amazon.com Inc.,Consumer Discretionary,Internet Retail,1700000000000
+META,Meta Platforms Inc.,Communication Services,Internet Content & Information,1200000000000
+TSLA,Tesla Inc.,Consumer Discretionary,Auto Manufacturers,975000000000
+BRK.B,Berkshire Hathaway Inc.,Financials,Insurance—Diversified,825000000000
+UNH,UnitedHealth Group Incorporated,Healthcare,Healthcare Plans,505000000000
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers—General,450000000000
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,490000000000
+JPM,JPMorgan Chase & Co.,Financials,Banks—Diversified,530000000000
+V,Visa Inc.,Financials,Credit Services,495000000000
+PG,Procter & Gamble Company,Consumer Staples,Household & Personal Products,380000000000
+NVDA,NVIDIA Corporation,Information Technology,Semiconductors,770000000000
+HD,Home Depot Inc.,Consumer Discretionary,Home Improvement Retail,365000000000
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated,350000000000
+MA,Mastercard Incorporated,Financials,Credit Services,385000000000
+BAC,Bank of America Corporation,Financials,Banks—Diversified,325000000000
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers—General,300000000000
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers—General,285000000000
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,305000000000
+COST,Costco Wholesale Corporation,Consumer Staples,Discount Stores,275000000000
+DIS,The Walt Disney Company,Communication Services,Entertainment,240000000000
+KO,The Coca-Cola Company,Consumer Staples,Beverages—Non-Alcoholic,260000000000
+CSCO,Cisco Systems Inc.,Information Technology,Communication Equipment,225000000000
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research,230000000000
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers—General,265000000000
+WMT,Walmart Inc.,Consumer Staples,Discount Stores,410000000000
+MRK,Merck & Co. Inc.,Healthcare,Drug Manufacturers—General,210000000000
+CRM,Salesforce Inc.,Information Technology,Software—Application,220000000000
